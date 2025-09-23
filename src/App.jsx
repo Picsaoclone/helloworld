@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <h1>Hello World from ReactTTTT!</h1>
+      <h1>Hello World from Supa React!</h1>
       <div className="card">
         {/* Link thay vì button */}
         <a 
